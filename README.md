@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Eu sou o Fabiano Conceição Soares Cardoso, estudante de Engenharia de Computação pela Univesp, estou a procura de estágio... 👋
 
 <!--
 **appsfabiano/appsfabiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
